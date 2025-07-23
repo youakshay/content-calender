@@ -1,0 +1,5 @@
+### Find all
+GET http://localhost:8080/api/content
+
+### Find with ID
+GET http://localhost:8080/api/content/1
